@@ -1,4 +1,2 @@
 # Repo for my resume
-{% raw %}
-<button onclick="window.open('./Rohan_Rajput_Resume.pdf')">Download</button>
-{% endraw %}
+<a href="Rohan_Rajput_Resume.pdf">Download File</a>
